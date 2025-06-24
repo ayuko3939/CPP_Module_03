@@ -24,7 +24,7 @@ ClapTrapクラスを実装する課題。
 **実行**:
 ```bash
 make
-./claptrap
+./ClapTrap
 ```
 
 ### Exercise 01: Serena, my love!
@@ -38,7 +38,7 @@ ClapTrapを継承したScavTrapクラスを実装する課題。
 **実行**:
 ```bash
 make
-./scavtrap
+./ScavTrap
 ```
 
 ### Exercise 02: Repetitive work
@@ -52,7 +52,7 @@ ClapTrapを継承したFragTrapクラスを実装する課題。
 **実行**:
 ```bash
 make
-./fragtrap
+./FragTrap
 ```
 
 ### Exercise 03: Now it's weird!
@@ -66,7 +66,7 @@ DiamondTrapクラスを実装し、ダイヤモンド継承問題を解決する
 **実行**:
 ```bash
 make
-./diamondtrap
+./DiamondTrap
 ```
 
 ## コンパイル要件
